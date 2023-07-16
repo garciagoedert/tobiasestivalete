@@ -54,18 +54,19 @@ hr {
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.6;
   font-weight:600;
+  font-family: 'Rufina', serif;
 }
 .bg-primary{
 	color:#000 !important;
-	background:#efb624!important
+	background:#195e83!important
 }
 .btn-primary{
 	color:#000 !important;
-	background:#efb624!important;
-	border-color:#efb624!important;
+	background:#195e83!important;
+	border-color:#b43c3c!important;
 }
 .text-primary{
-	color:#e68b0de8!important
+	color:#195e83!important
 }
 .bg-dark{
 	background:#232323 !important
@@ -1447,7 +1448,7 @@ ul.timeline > li:before {
     z-index: 400;
 }
 .hero h1{
-	color: #efb624;
+	color: #195e83;
 	letter-spacing: 8px;
 }
 
