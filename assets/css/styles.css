@@ -18,6 +18,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -moz-font-feature-settings: "liga", "kern";
   text-rendering: optimizelegibility;
+  background-color: #195e83;
 }
 
 a {
@@ -69,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
 	color:#195e83!important
 }
 .bg-dark{
-	background:#232323 !important
+	background: #b43c3c !important
 }
 header{
   padding: 70px 0 100px;
